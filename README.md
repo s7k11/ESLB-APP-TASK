@@ -4,6 +4,7 @@
 ### If user is logged in ,BottomTab(Upcoming Matches) Screen is rendered else Login Screen will render.
 ### After rendering upcomings matches user can directly go to match detail ,by clicking match detail page.
 ### User can logout by clicking avatar icon in Upcoming Match page.
+### Test login info email:a@a.com ,password : 1
 ### Folder Structure
     - Index.js
       - App.js
@@ -20,4 +21,6 @@
           - user
           - banner
           - upcomingMatches
+          
+
 
